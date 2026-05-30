@@ -1,0 +1,7 @@
+pandas
+numpy
+torch
+gymnasium
+stable-baselines3
+scikit-learn
+sympy==1.12
